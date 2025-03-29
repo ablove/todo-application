@@ -82,13 +82,13 @@ Task Completed: Buy groceries
 ## Screenshots
 
 ### Adding a Task
-![Add Task](screenshots/add_task.png)
+![Add Task] (screenshots/add-tasks.png)
 
-### Displaying Tasks
-![Display Tasks](screenshots/display_tasks.png)
+### Remove Tasks
+![Edit Tasks](screenshots/edit-tasks.png)
 
 ### Toggling Completion
-![Toggle Completion](screenshots/toggle_completion.png)
+![Toggle Completion](screenshots/task-completed.png)
 
 ## Project Structure
 
