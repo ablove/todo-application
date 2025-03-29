@@ -82,7 +82,7 @@ Task Completed: Buy groceries
 ## Screenshots
 
 ### Adding a Task
-![Add Task] (screenshots/add-tasks.png)
+![Add Task](screenshots/add-tasks.png)
 
 ### Remove Tasks
 ![Edit Tasks](screenshots/edit-tasks.png)
